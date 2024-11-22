@@ -199,7 +199,7 @@ class EnglishAssetPickerTextDelegate extends AssetPickerTextDelegate {
   String get preview => 'Preview';
 
   @override
-  String get select => 'Select';
+  String get select => 'Select before confirming';
 
   @override
   String get emptyList => 'Empty list';
